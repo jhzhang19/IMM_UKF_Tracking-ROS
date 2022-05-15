@@ -1,0 +1,8 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/mnt/data/workspace/ROS_MOT/track_ws/devel/lib/python2.7/dist-packages",
+    "/opt/ros/kinetic/lib/python2.7/dist-packages",
+    "/mnt/data/workspace/AB3DMOT",
+    "/mnt/data/workspace/Xinshuo_PyToolbox"
+  ]
+}
